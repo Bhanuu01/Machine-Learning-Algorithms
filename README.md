@@ -6,7 +6,7 @@ Welcome to my Machine Learning Algorithms repository! Here, I've diligently craf
 2. **Linear Regression**
 3. **ID3 (Iterative Dichotomiser 3)**
 4. **FINDS**
-5. **CART **
+5. **CART**
 6. **C4.5**
 7. **Artificial Neural Networks (ANN)**
 8. **Naive Bayes**
